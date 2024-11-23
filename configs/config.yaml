@@ -1,0 +1,5 @@
+game_configs:
+  fps: 60
+  screen:
+    height: 1000
+    width: 1000
